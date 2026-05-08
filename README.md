@@ -7,9 +7,9 @@
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+### 🚀 Tecnologias que estou aprendendo
 
-<div align="center">
+<div align="center" style="display: inline_block"><br>
 
 <img align="center" alt="JavaScript" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
