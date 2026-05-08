@@ -7,51 +7,42 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/CBvictor">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CBvictor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CBvictor&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 ## 🚀 Tecnologias que estou aprendendo
 
-<div style="display: inline_block"><br>
+<div align="center">
 
-<img align="center" alt="JavaScript" height="40" width="50"
+<img align="center" alt="JavaScript" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-<img align="center" alt="HTML" height="40" width="50"
+<img align="center" alt="HTML" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 
-<img align="center" alt="CSS" height="40" width="50"
+<img align="center" alt="CSS" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-<img align="center" alt="Python" height="40" width="50"
+<img align="center" alt="Python" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-<img align="center" alt="C" height="40" width="50"
+<img align="center" alt="C" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
-<img align="center" alt="C++" height="40" width="50"
+<img align="center" alt="C++" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 
-<img align="center" alt="Git" height="40" width="50"
+<img align="center" alt="Git" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-<img align="center" alt="GitHub" height="40" width="50"
+<img align="center" alt="GitHub" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
-<img align="center" alt="SQL" height="40" width="50"
+<img align="center" alt="MySQL" height="50" width="60"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 </div>
 
 ---
 
-## 📌 Objetivos
+## 🎯 Objetivos
 
 ✨ Conseguir minha primeira oportunidade na área de tecnologia  
 ✨ Evoluir como desenvolvedor Back-End  
