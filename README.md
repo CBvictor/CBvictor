@@ -6,7 +6,6 @@
 📚 Sempre buscando evoluir e criar novos projetos  
 
 ---
-
 ## 🚀 Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br>
