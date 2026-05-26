@@ -13,7 +13,7 @@
 
 **`Desenvolvedor em Formação · Web · Automação`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victorcabraltech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorcabraltech)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhmc.comercial@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CBvictor)
 
@@ -82,9 +82,9 @@ victor = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CBvictor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBvictor&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -96,14 +96,13 @@ Estou sempre aberto a novas conexões, oportunidades e colaborações!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Me%20encontre%20no%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Me%20mande%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/Me%20encontre%20no%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorcabraltech)
+[![Email](https://img.shields.io/badge/Me%20mande%20um%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhmc.comercial@gmail.com)
 
 ---
 
 *"Todo especialista já foi um dia iniciante."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=seu-usuario&color=0d1117&style=flat-square&label=Visitantes)
+![Visitor Count](https://komarev.com/ghpvc/?username=CBvictor&color=0d1117&style=flat-square&label=Visitantes)
 
 </div>
-
